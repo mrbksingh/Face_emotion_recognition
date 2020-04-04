@@ -5,15 +5,14 @@
 # Overview
 
 # Dependencies
-  Python == 3.6
-  opencv == 4.1.2
-  Keras
-  numpy
-  tensorflow with gpu support (pip install tensorflow-gpu)
-  tflearn (pip install tflearn)
+ - Python == 3.6
+ - opencv == 4.1.2
+ - Keras
+ - numpy
+ - tensorflow with gpu support (pip install tensorflow-gpu)
+ - tflearn (pip install tflearn)
 # Dataset
-  !["fer2013"](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
-  
+  [fer2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
   
   
 ![](testgallery/detected_faces.png) 
