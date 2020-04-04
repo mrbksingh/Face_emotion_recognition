@@ -2,8 +2,9 @@
 Real Time Face emotion recognition using neural network 
 
 ![](testgallery/detected_faces.png) 
-![](testgallery/detected_faces1.png "obama") ![](testgallery/detected_faces2.png "modi")
-
+<img align="left" src="testgallery/detected_faces3.png" >
+<img align="left" src="testgallery/detected_faces3.png" >
+<br>
 <img src="testgallery/detected_faces3.png" >
 <img src="testgallery/detected_faces4.png" >
 <img src="testgallery/detected_faces5.png" >
