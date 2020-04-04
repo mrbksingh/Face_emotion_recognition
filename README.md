@@ -28,5 +28,7 @@
 <img src="testgallery/detected_faces5.png" >
 <img src="testgallery/detected_faces6.png" >
 
+### References
+   [http://tflearn.org/examples/](http://tflearn.org/examples/)
 
 
